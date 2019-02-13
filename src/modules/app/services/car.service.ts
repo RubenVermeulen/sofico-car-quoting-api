@@ -29,6 +29,7 @@ export class CarService {
         gearboxId: 'manual',
         name: 'Manual',
       },
+      leasePrice: 500
     },
     {
       carId: '2',
@@ -47,6 +48,7 @@ export class CarService {
         gearboxId: 'manual',
         name: 'Manual',
       },
+      leasePrice: 480
     },
     {
       carId: '3',
@@ -65,6 +67,7 @@ export class CarService {
         gearboxId: 'automatic',
         name: 'Automatic',
       },
+      leasePrice: 520
     },
     {
       carId: '4',
@@ -83,6 +86,7 @@ export class CarService {
         gearboxId: 'manual',
         name: 'Manual',
       },
+      leasePrice: 450
     },
   ];
 }

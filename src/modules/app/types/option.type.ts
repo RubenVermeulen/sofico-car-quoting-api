@@ -5,4 +5,5 @@ export interface Option extends Readonly<{
   optionType: string;
   price: number;
   isSelected: boolean;
+  leasePrice?: number;
 }> {}

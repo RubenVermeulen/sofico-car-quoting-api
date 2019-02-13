@@ -16,5 +16,6 @@ export interface Car extends Readonly<{
     gearboxId: string;
     name: string;
   };
+  leasePrice: number;
 }> {
 }
